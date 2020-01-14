@@ -77,8 +77,6 @@ document.addEventListener("DOMContentLoaded", function() {
         ul.appendChild(li)
 
         e.target.reset()
-
   })
   
-
 })
